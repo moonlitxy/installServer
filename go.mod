@@ -1,4 +1,4 @@
-module installServer
+module github.com/moonlitxy/installServer
 
 go 1.24
 
