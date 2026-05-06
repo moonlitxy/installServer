@@ -1,0 +1,12 @@
+# 缓存目录
+.npm-cache/
+.idea/
+
+# 可执行文件
+installServer
+install-server-amd64
+install-server-arm64
+
+# Git 配置
+.claude/
+CLAUDE.md
